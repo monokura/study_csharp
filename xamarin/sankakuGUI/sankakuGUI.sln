@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sankakuGUI", "sankakuGUI\sankakuGUI.csproj", "{981014D0-CFE7-4EA1-9430-3A8C6CAB72AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{981014D0-CFE7-4EA1-9430-3A8C6CAB72AE}.Debug|x86.ActiveCfg = Debug|x86
+		{981014D0-CFE7-4EA1-9430-3A8C6CAB72AE}.Debug|x86.Build.0 = Debug|x86
+		{981014D0-CFE7-4EA1-9430-3A8C6CAB72AE}.Release|x86.ActiveCfg = Release|x86
+		{981014D0-CFE7-4EA1-9430-3A8C6CAB72AE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = sankakuGUI\sankakuGUI.csproj
+	EndGlobalSection
+EndGlobal

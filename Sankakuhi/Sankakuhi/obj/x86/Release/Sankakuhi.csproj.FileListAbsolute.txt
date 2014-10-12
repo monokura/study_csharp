@@ -1,0 +1,22 @@
+C:\Users\monokura\AppData\Local\Temporary Projects\Sankakuhi\bin\Release\Sankakuhi.exe
+C:\Users\monokura\AppData\Local\Temporary Projects\Sankakuhi\bin\Release\Sankakuhi.pdb
+C:\Users\monokura\AppData\Local\Temporary Projects\Sankakuhi\obj\x86\Release\MainWindow.baml
+C:\Users\monokura\AppData\Local\Temporary Projects\Sankakuhi\obj\x86\Release\MainWindow.g.cs
+C:\Users\monokura\AppData\Local\Temporary Projects\Sankakuhi\obj\x86\Release\App.g.cs
+C:\Users\monokura\AppData\Local\Temporary Projects\Sankakuhi\obj\x86\Release\Sankakuhi_MarkupCompile.cache
+C:\Users\monokura\AppData\Local\Temporary Projects\Sankakuhi\obj\x86\Release\Sankakuhi.g.resources
+C:\Users\monokura\AppData\Local\Temporary Projects\Sankakuhi\obj\x86\Release\Sankakuhi.Properties.Resources.resources
+C:\Users\monokura\AppData\Local\Temporary Projects\Sankakuhi\obj\x86\Release\Sankakuhi.csproj.GenerateResource.Cache
+C:\Users\monokura\AppData\Local\Temporary Projects\Sankakuhi\obj\x86\Release\Sankakuhi.exe
+C:\Users\monokura\AppData\Local\Temporary Projects\Sankakuhi\obj\x86\Release\Sankakuhi.pdb
+C:\Users\monokura\programs\csharp\Sankakuhi\Sankakuhi\bin\Release\Sankakuhi.exe
+C:\Users\monokura\programs\csharp\Sankakuhi\Sankakuhi\bin\Release\Sankakuhi.pdb
+C:\Users\monokura\programs\csharp\Sankakuhi\Sankakuhi\obj\x86\Release\MainWindow.baml
+C:\Users\monokura\programs\csharp\Sankakuhi\Sankakuhi\obj\x86\Release\MainWindow.g.cs
+C:\Users\monokura\programs\csharp\Sankakuhi\Sankakuhi\obj\x86\Release\App.g.cs
+C:\Users\monokura\programs\csharp\Sankakuhi\Sankakuhi\obj\x86\Release\Sankakuhi_MarkupCompile.cache
+C:\Users\monokura\programs\csharp\Sankakuhi\Sankakuhi\obj\x86\Release\Sankakuhi.g.resources
+C:\Users\monokura\programs\csharp\Sankakuhi\Sankakuhi\obj\x86\Release\Sankakuhi.Properties.Resources.resources
+C:\Users\monokura\programs\csharp\Sankakuhi\Sankakuhi\obj\x86\Release\Sankakuhi.csproj.GenerateResource.Cache
+C:\Users\monokura\programs\csharp\Sankakuhi\Sankakuhi\obj\x86\Release\Sankakuhi.exe
+C:\Users\monokura\programs\csharp\Sankakuhi\Sankakuhi\obj\x86\Release\Sankakuhi.pdb

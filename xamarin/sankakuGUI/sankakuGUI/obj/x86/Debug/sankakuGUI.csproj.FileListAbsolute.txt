@@ -1,0 +1,10 @@
+C:\Users\monokura\programs\xamarin\sankakuGUI\sankakuGUI\obj\x86\Debug\sankakuGUI.csprojResolveAssemblyReference.cache
+C:\Users\monokura\programs\xamarin\sankakuGUI\sankakuGUI\bin\Debug\sankakuGUI.exe
+C:\Users\monokura\programs\xamarin\sankakuGUI\sankakuGUI\bin\Debug\sankakuGUI.pdb
+C:\Users\monokura\programs\xamarin\sankakuGUI\sankakuGUI\obj\x86\Debug\sankakuGUI.exe
+C:\Users\monokura\programs\xamarin\sankakuGUI\sankakuGUI\obj\x86\Debug\sankakuGUI.pdb
+C:\Users\monokura\programs\csharp\xamarin\sankakuGUI\sankakuGUI\bin\Debug\sankakuGUI.exe
+C:\Users\monokura\programs\csharp\xamarin\sankakuGUI\sankakuGUI\bin\Debug\sankakuGUI.pdb
+C:\Users\monokura\programs\csharp\xamarin\sankakuGUI\sankakuGUI\obj\x86\Debug\sankakuGUI.csprojResolveAssemblyReference.cache
+C:\Users\monokura\programs\csharp\xamarin\sankakuGUI\sankakuGUI\obj\x86\Debug\sankakuGUI.exe
+C:\Users\monokura\programs\csharp\xamarin\sankakuGUI\sankakuGUI\obj\x86\Debug\sankakuGUI.pdb

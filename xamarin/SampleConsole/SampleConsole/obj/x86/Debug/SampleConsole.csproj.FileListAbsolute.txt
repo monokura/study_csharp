@@ -1,0 +1,4 @@
+C:\Users\monokura\programs\xamarin\SampleConsole\SampleConsole\bin\Debug\SampleConsole.exe
+C:\Users\monokura\programs\xamarin\SampleConsole\SampleConsole\bin\Debug\SampleConsole.pdb
+C:\Users\monokura\programs\xamarin\SampleConsole\SampleConsole\obj\x86\Debug\SampleConsole.exe
+C:\Users\monokura\programs\xamarin\SampleConsole\SampleConsole\obj\x86\Debug\SampleConsole.pdb

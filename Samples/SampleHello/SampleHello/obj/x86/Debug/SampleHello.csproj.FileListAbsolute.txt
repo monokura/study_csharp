@@ -1,0 +1,4 @@
+C:\Users\monokura\AppData\Local\Temporary Projects\SampleHello\bin\Debug\SampleHello.exe
+C:\Users\monokura\AppData\Local\Temporary Projects\SampleHello\bin\Debug\SampleHello.pdb
+C:\Users\monokura\AppData\Local\Temporary Projects\SampleHello\obj\x86\Debug\SampleHello.exe
+C:\Users\monokura\AppData\Local\Temporary Projects\SampleHello\obj\x86\Debug\SampleHello.pdb

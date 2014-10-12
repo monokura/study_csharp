@@ -1,0 +1,1 @@
+csc /r:DxLibDotNet/DxLibDotNet.dll SampleDxlib.cs

@@ -1,0 +1,10 @@
+C:\Users\monokura\programs\SharpDevelop\SampleHello\SampleHello\bin\Debug\SampleHello.exe
+C:\Users\monokura\programs\SharpDevelop\SampleHello\SampleHello\bin\Debug\SampleHello.pdb
+C:\Users\monokura\programs\SharpDevelop\SampleHello\SampleHello\obj\Debug\SampleHello.csprojResolveAssemblyReference.cache
+C:\Users\monokura\programs\SharpDevelop\SampleHello\SampleHello\obj\Debug\SampleHello.exe
+C:\Users\monokura\programs\SharpDevelop\SampleHello\SampleHello\obj\Debug\SampleHello.pdb
+C:\Users\monokura\programs\xamarin\SampleHello\SampleHello\bin\Debug\SampleHello.exe
+C:\Users\monokura\programs\xamarin\SampleHello\SampleHello\bin\Debug\SampleHello.pdb
+C:\Users\monokura\programs\xamarin\SampleHello\SampleHello\obj\Debug\SampleHello.csprojResolveAssemblyReference.cache
+C:\Users\monokura\programs\xamarin\SampleHello\SampleHello\obj\Debug\SampleHello.exe
+C:\Users\monokura\programs\xamarin\SampleHello\SampleHello\obj\Debug\SampleHello.pdb
